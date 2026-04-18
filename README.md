@@ -30,8 +30,7 @@ With a background spanning both development and quality assurance, I bridge the 
   *TEACH2GIVE (Sep 2025 - Dec 2025)*
 - **B.Sc. in Computer Science (Honors)**  
   *Egerton University (2020 - 2025)*
-- **Kenya Certificate of Secondary Education**  
-  *Meru School (2016 - 2019)*
+
 
 ### 📜 Certifications
 - **Quality Assurance / Quality Engineer** — *TEACH2GIVE (2025)*
