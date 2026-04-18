@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0f0e-4361-bd34-31ee6f72c638.gif" alt="Developer Animation" width="350"/>
-  
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Developer Coding" />  
   <h1>Hi there, I'm Robinson Muriuki 👋</h1>
   <h3>Software Developer & QA Engineer 🚀</h3>
 
