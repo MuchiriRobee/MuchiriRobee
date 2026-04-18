@@ -75,7 +75,7 @@ With a background spanning both development and quality assurance, I bridge the 
 </p>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 📚 [Maktaba Hub](https://github.com/MuchiriRobee/Library-Frontend)
@@ -101,8 +101,8 @@ With a background spanning both development and quality assurance, I bridge the 
 > 🔗 **[Live Demo](https://crochet-ashen-phi.vercel.app/)** &nbsp;&bull;&nbsp; 💻 **[GitHub Repository](https://github.com/MuchiriRobee/Crochet)**
 
 ---
-
+-->
 <p align="center">
   <i>"Turning chaos into confidence through automated testing strategies."</i><br><br>
-  ⭐️ <b>Designed & Built by Robinson Muriuki</b>
+  ⭐️ <b>Yours Truly,  Robinson Muriuki</b>
 </p>
