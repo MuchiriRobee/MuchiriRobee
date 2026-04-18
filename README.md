@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" alt="Developer Coding" />  
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Developer Coding" />  
   <h1>Hi there, I'm Robinson Muriuki 👋</h1>
   <h3>Software Developer & QA Engineer 🚀</h3>
 
